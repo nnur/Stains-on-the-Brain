@@ -1,35 +1,35 @@
-<!DOCTYPE html>
-<html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		
+		<title>Login</title>
+		
+		<link rel="stylesheet" type="text/css" href="../styles/loginstyle.css" />
+		<link href='http://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
+			<link href='http://fonts.googleapis.com/css?family=Yellowtail' rel='stylesheet' type='text/css'>
+			
+			</head>
+			<body>
+				<h1>
+				. Stains . on the . Brain .
+				</h1>
+				
+					<form class="form-5 clearfix">
 
-<head>
+						<p>
+						<input type="text" id="login" name="login" placeholder="Username"  ng-model="usr">
+						<input type="password" name="password" id="password" ng-model="pwd" placeholder="Password">
+						</p>
 
-  <meta charset="UTF-8">
+						<button type="submit" name="submit" ng-click="submit()">
+						<i class="icon-arrow-right"></i>
+						<span>Sign in</span>
+						</button>
+						
 
-  <title>Login  - CodePen</title>
-
-  <link rel="stylesheet" href="css/reset.css">
-
-    <link rel="stylesheet" href="styles/loginstyle.css" media="screen" type="text/css" />
-
-</head>
-
-<body>
-
-  <div class="wrap">
-		<div class="avatar">
-      <img src="http://cdn.ialireza.me/avatar.png">
-		</div>
-		<input type="text" placeholder="username" id="username" ng-model="usr">
-		<div class="bar">
-			<i></i>
-		</div>
-		<input type="password" id="password" ng-model="pwd" placeholder="password">
-
-		<button id="login" ng-click="submit()">Sign in</button>
-	</div>
-
-  <script src="js/index.js"></script>
-
-</body>
-
-</html>
+					</form>​​​​
+				
+			</div>
+			
+		</body>
+	</html>
