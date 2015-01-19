@@ -1,4 +1,4 @@
- var myapp = angular.module('myapp', ['ngRoute']);
+ var myapp = angular.module('myapp', ['ngRoute', 'ngAnimate']);
  currentUser = null;
 
  // configure our routes
