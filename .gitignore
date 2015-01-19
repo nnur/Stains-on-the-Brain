@@ -27,11 +27,9 @@ node_modules/*
 *.sql
 *.sqlite
 
-# Images #
-##########
-*.png
-*.jpg
-*.jpeg
+# raw stains #
+##############
+public/images/raw_stains/*
  
 # OS generated files #
 ######################

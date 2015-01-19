@@ -3,7 +3,22 @@
 }
 .navbar-custom{
 	color: #ffb838;
-  background:rgba(255,255,255,0.6);
-  font-family:'Amatic SC', cursive;
+	background:rgba(255,255,255,0.6);
+	z-index: 1061;
+  /*font-family:'Amatic SC', cursive;*/
 }
 
+.up {
+	position:absolute;
+	z-index: 1060;
+}
+
+.down {
+	padding:0;
+	position:absolute;
+	z-index: 1059;
+}
+
+.buffer {
+	margin-top:180px;
+}
