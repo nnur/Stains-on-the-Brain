@@ -1,6 +1,9 @@
 var myStainCount = 100; // create the controller and inject Angular's $scope
 myapp.controller('loginController', function($scope, $http, $location) {
-$scope.pageClass = 'page-login';
+
+$scope.pageClass = 'page-login'
+// $scope.showNav = true
+
     //submit the login request
     $scope.submit = function() {
 

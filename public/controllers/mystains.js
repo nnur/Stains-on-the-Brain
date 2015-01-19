@@ -1,6 +1,9 @@
-
 myapp.controller('mystainsController', function($scope, $http) {
     
+     $scope.isActive = function(viewLocation) {
+        // return viewLocation === $location.path();
+        return true
+    };
 
     $scope.pageClass = 'page-about';
 
