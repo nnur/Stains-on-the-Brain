@@ -1,7 +1,6 @@
 body {
                 background: #eedfcc url(../images/bg3.jpg) no-repeat center top;
                 -webkit-background-size: cover;
-                -moz-background-size: cover;
                 background-size: cover;
     }
 
