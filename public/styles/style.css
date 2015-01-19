@@ -13,7 +13,7 @@
 /* page specific animations ------------------------ */
 
 /* home -------------------------- */
-.page-home.ng-leave         {
+.page-login.ng-leave         {
     -webkit-transform-origin: 0% 0%;
 	-webkit-animation: rotateFall 1s both ease-in;
 	-moz-transform-origin: 0% 0%;
@@ -21,7 +21,7 @@
 	transform-origin: 0% 0%;
 	animation: rotateFall 1s both ease-in;
 }
-.page-home.ng-enter 		{  
+.page-login.ng-enter 		{  
     -webkit-animation:scaleUp 0.5s both ease-in;
 	-moz-animation:scaleUp 0.5s both ease-in;
 	animation:scaleUp 0.5s both ease-in;    
