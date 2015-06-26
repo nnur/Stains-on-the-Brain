@@ -6,7 +6,7 @@ This project is a mishmash between Rorschach ink blot tests and a social network
 
 We created over a 100 watercolor stains. Players view one stain at a time and select the closest thing they see.
 Example: 
-![stain](/public/images/raw_stains/32.jpg "Stain # 32")
+![stain](/public/images/raw_stains/32.png "Stain # 32")
 Choices: 
 1. A goodbye 
 2. muddy waters
