@@ -1,6 +1,6 @@
 # Stains on the Brain
 
-This project is a mishmash between Rorschach ink blot tests and a social network app. It uses the very well-structured MEAN seed. I have been switching over our MySQL database to Mongo.
+This project is a mishmash between Rorschach ink blot tests and a social network app. It uses the very well-structured MEAN seed. I have been switching over our MySQL database to Mongo. It is extremely scalable and can manage huge volumes of clients. It also uses special metrics for matching users.
 
 ![sc](/public/images/screenshot.png "login")
 
