@@ -10,7 +10,7 @@ We created over a 100 watercolor stains. Players view one stain at a time and se
 
 ![stain](/public/images/32.png "Stain # 32")
                                                                                                                                                                
-Choices: 1. A goodbye, 2. muddy waters, 3. mountain, 4. ephemerality
+Choices: 1. A goodbye, 2. muddy waters, 3. mountain, 4. poop stain
 
 
 Then the stain reveals what it really is. 
